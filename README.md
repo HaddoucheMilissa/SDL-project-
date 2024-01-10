@@ -1,4 +1,4 @@
-# SDL projectp 💻
+# SDL projectp 
 
 The project is centered around the
 implementation of a bubble sort algorithm
